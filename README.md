@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/book-0288D1?style=flat-square&logo=BookStack&logoColor=white"/>studying <img src="https://img.shields.io/badge/book-0288D1?style=flat-square&logo=BookStack&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
