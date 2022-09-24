@@ -1,6 +1,6 @@
 <div align="center">
 ### Hello I'm Yoonlee 😄
-
+</div>
 <!--
 **Yooonlee/Yooonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 <br></br>  
 <img src="https://img.shields.io/badge/Studying-0288D1?style=flat-square&logo=BookStack&logoColor=white"/> 
   
