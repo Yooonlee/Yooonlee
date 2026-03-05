@@ -33,7 +33,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div style="text-align: left;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=Yooonlee&show_icons=true&theme=radical" width="400" height="180" alt="GitHub Stats"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yooonlee&layout=compact&theme=radical" width="400" height="180" alt="Top Languages"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yooonlee&show_icons=true&theme=radical" width="400" height="180" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yooonlee&layout=compact&theme=radical" width="400" height="180" alt="Top Languages"/>
     </div> 
 </div>
